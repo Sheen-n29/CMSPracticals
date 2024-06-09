@@ -1,2 +1,1 @@
-# CMSPracticals
-Practical Repository for CP3402
+# CMS Learning Journal
