@@ -1,7 +1,3 @@
-Here's the learning journal template formatted in GitHub Markdown:
-
----
-
 ## **Week 1: Subject Intro & Web Design Basics**
 
 ### **Learning Activities**
